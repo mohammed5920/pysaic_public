@@ -8,7 +8,7 @@ It supports generating mosaics from both images and videos, using any combinatio
 **Video** -> streams in a video and replaces each pixel with an image or a still frame from a video in real-time\
 **Hybrid** -> creates an image where each pixel is a colour-matched clip from a video (RAM-intensive)
 
-![Demo](assets/readme//video.mp4 "Preview")
+![Demo](assets/readme/video.mp4 "Preview")
 
 ## Performance
 On a Ryzen 5 5600, using the entirety of [Parks & Recreation](https://en.wikipedia.org/wiki/Parks_and_Recreation) as the tileset:
